@@ -19,7 +19,10 @@ I learned programming in college and while working as an automation tester. I pr
 </br>
 
 ## 📃 My projects
-* TBA
+* Controlling a car model via a low-power wireless interface: [Repository](https://github.com/MHadrysiak/ControlSystem)  
+* FreeRTOS based cooling system: [Repository](https://github.com/MHadrysiak/embeddedProject)
+* AI checkers game engine with physical board recognition: [Repository](https://github.com/MHadrysiak/CheckersGame)
+* OOP Project: [Repository](https://github.com/MHadrysiak/ProjectOOP)
 
 ## 📫 How to reach me
 See my profile on LinkedIn and write to me via message or email! 
