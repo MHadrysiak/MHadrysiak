@@ -1,6 +1,6 @@
 # Hi there, I'm Michał 👋
 
-I learned programming in college and while working as an automation tester. I program mainly in Python and C++.  I am interested in machine learning, so I am writing my master's thesis in this field. I am an ambitious and motivated person. I would like to participate in interesting projects where I could fully use my skills.
+I learned programming in college and while working as an automation tester. I code mainly in Python and C++.  I am interested in machine learning, so I am writing my master's thesis in this field. I am an ambitious and motivated person. I would like to participate in interesting projects where I could fully use my skills.
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
